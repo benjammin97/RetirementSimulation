@@ -9,4 +9,4 @@ from 0 to 2.5 percent growth from year 11 to retirement. The reason for this is 
 inflation is not included in the salary calculation, even though the growth rate for the investment portfolio does account for inflation.
 I set three different investment proportions to determine the minimum necessary investment rate, as calculated as a percentage of salary, 
 to reach my goal- 10 percent, 7.5 percent, and 5 percent. Using data table, I ran 100 simulations for each investment rate and gathered summary statistics.
-[Project Summary](https://github.com/benjammin97/RetirementSimulation/blob/main/Final%20Project%20610.docx) , [Data](https://github.com/benjammin97/RetirementSimulation/blob/main/InvestmentProjectModelingAndSimulation.xlsx)
+[Project Summary]() , [Data](https://github.com/benjammin97/RetirementSimulation/blob/main/InvestmentProjectModelingAndSimulation.xlsx)
